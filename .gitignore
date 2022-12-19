@@ -134,3 +134,8 @@ glove.*
 /glove
 
 results/
+results2/
+results2_old/
+TM_Example/data/
+models/
+data/
